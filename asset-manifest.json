@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-redux-axios-blog/static/css/main.eda3b947.css",
+    "main.js": "/react-redux-axios-blog/static/js/main.fbe9c86b.js",
+    "static/js/787.54345367.chunk.js": "/react-redux-axios-blog/static/js/787.54345367.chunk.js",
+    "index.html": "/react-redux-axios-blog/index.html",
+    "main.eda3b947.css.map": "/react-redux-axios-blog/static/css/main.eda3b947.css.map",
+    "main.fbe9c86b.js.map": "/react-redux-axios-blog/static/js/main.fbe9c86b.js.map",
+    "787.54345367.chunk.js.map": "/react-redux-axios-blog/static/js/787.54345367.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda3b947.css",
+    "static/js/main.fbe9c86b.js"
+  ]
+}
