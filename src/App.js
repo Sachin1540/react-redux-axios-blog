@@ -12,7 +12,7 @@ class App extends Component {
     return (
       <Router>
         <nav className="navbar navbar-expand navbar-dark bg-dark">
-          <Link to={"/tutorials"} className="navbar-brand">
+          <Link to={"/"} className="navbar-brand">
             Blog Website
           </Link>
           <div className="navbar-nav mr-auto">

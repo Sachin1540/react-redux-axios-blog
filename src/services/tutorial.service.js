@@ -2,23 +2,23 @@ import http from "../http-common";
 
 class TutorialDataService {
   getAll() {
-    return http.get("/getusers");
+    return http.get("/");
   }
 
   get(id) {
-    return http.get(`/induser/${id}`);
+    return http.get(`/${id}`);
   }
 
   create(data) {
-    return http.post("/create", data);
+    return http.post("/", data);
   }
 
   patch(id, data) {
-    return http.put(`/updateuser/${id}`, data);
+    return http.put(`/${id}`, data);
   }
 
   delete(id) {
-    return http.delete(`/deleteuser/${id}`);
+    return http.delete(`/${id}`);
   }
 
   deleteAll() {
